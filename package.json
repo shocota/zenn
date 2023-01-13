@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shocota/zenn.git"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.135"
+  }
+}
